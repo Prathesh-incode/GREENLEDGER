@@ -1,0 +1,3 @@
+# GreenLedger uses only Python standard-library modules.
+# Tkinter is part of the standard Python distribution on Windows/macOS;
+# some Linux distributions provide it through a separate OS package (python3-tk).
